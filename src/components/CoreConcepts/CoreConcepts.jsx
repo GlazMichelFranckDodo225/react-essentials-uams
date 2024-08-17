@@ -1,3 +1,5 @@
+import './CoreConcepts.css';
+
 // function CoreConcept(props) {
 export default function CoreConcept({ title, description, image }) {
     return (
